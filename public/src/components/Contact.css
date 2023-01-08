@@ -1,0 +1,14 @@
+.alpha{
+    background-color: rgb(245,245,245,245);
+ }
+ .contact{
+     width: 50%;
+     height: 100%;
+     box-shadow: 2px 5px 10px ;
+     padding: 10px 5px;
+     
+ }
+ .container {
+     margin-bottom: 10%;
+    
+ }

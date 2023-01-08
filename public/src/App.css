@@ -1,0 +1,24 @@
+.explore-nft{
+    text-align: center;
+    margin-left: 50%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+    overflow-x:hidden;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.pzTsy5rsYURP4dlN7EHQiQHaDt&pid=Api&P=0");
+}
+.text-style{
+   color: #8c6fc2;
+   font-size: 25px;
+   font-weight: 900;
+}
+.large{
+
+ color: #8c6fc2;
+   font-size: 25px;
+   font-weight: 900;
+}
